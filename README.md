@@ -21,7 +21,7 @@ It is ideal for **bug bounty hunters**, **penetration testers**, and **security 
 ## 🛠️ Installation
 
 ```bash
-git clone https://github.com/yourusername/BugHunter.git
+git clone https://github.com/ERO-HACK/BugHunter.git
 cd BugHunter
 pip install -r requirements.txt
 python bughunter.py -h
