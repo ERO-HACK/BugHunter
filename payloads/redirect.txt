@@ -1,0 +1,15 @@
+http://evil.com
+https://phishing.com
+//evil.com
+///evil.com
+///phishing.com
+http://localhost
+https://127.0.0.1
+http://example.com
+https://redirect.com
+//redirect.com
+//127.0.0.1
+//localhost
+http://malicious.com
+https://attacker.com
+http://badsite.net

